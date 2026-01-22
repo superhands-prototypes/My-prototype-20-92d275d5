@@ -6,7 +6,7 @@
 
 body {
   font-family: system-ui, -apple-system, sans-serif;
-  background: white;
+  background: red;
   color: #333;
 }
 
@@ -16,7 +16,7 @@ body {
   flex-direction: column;
   max-width: 428px;
   margin: 0 auto;
-  background: white;
+  background: red;
   position: relative;
 }
 
